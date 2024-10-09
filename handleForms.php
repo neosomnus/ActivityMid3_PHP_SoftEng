@@ -1,4 +1,4 @@
-<<?php 
+<?php 
 
 require_once 'dbConfig.php'; 
 require_once 'models.php';
